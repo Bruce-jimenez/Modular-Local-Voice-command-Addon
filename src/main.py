@@ -2,7 +2,7 @@
 
 from faster_whisper import WhisperModel
 
-from config import MODEL_SIZE, LANGUAGE
+from src.config import MODEL_SIZE, LANGUAGE
 
 
 class SpeechRecognizer:

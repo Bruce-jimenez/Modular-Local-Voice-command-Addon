@@ -1,6 +1,6 @@
 # src/command_detector.py
 
-from config import SYSTEM_COMMANDS
+from src.config import SYSTEM_COMMANDS
 
 
 def detect_system_command(text):
